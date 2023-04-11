@@ -1,0 +1,12 @@
+{
+  "name": "Image compress",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node compress.js"
+  },
+  "dependencies": {
+    "compress-images": "^1.9.9",
+    "gifsicle": "^5.2.0",
+    "pngquant-bin": "^6.0.0"
+  }
+}
